@@ -1,0 +1,19 @@
+PIOPunk
+version 1.0
+Using Player.IO with FlashPunk
+Example Game by Richard Marks
+
+
+I've made this example both to learn how to use Player.IO and to help others.
+You're free to use this code as a starting point for your own games.
+
+Notes: 
+
+I am using my modified FlashPunk 1.4 available here:
+
+https://github.com/RichardMarks/FlashPunk1.4mod
+
+And Player.IO Development Package version 2.0 from http://playerio.com
+
+Feel free to email me if you have questions.
+ccpsceo@gmail.com
